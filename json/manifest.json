@@ -1,0 +1,21 @@
+{
+  "short_name": "Focus Football",
+  "name": "Focus Football Peterhead FC",
+  "icons": [
+	{
+    "src": "http://webdev.edinburghcollege.ac.uk/~HNDSOFTS2A9/images/ic_launcher.png",
+    "type": "image/png",
+    "sizes": "192x192"
+    },
+  
+    {
+      "src": "images/web_hi_res_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  
+  "start_url": "http://webdev.edinburghcollege.ac.uk/~HNDSOFTS2A9/",
+  "display": "standalone"
+
+}
